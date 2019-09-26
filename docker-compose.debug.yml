@@ -1,0 +1,71 @@
+version: "3"
+services:
+  rp_nginx:
+    image: nginx:1.15.10
+    container_name: rp_nginx
+    ports:
+      - "9000:80"
+      - "9443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      #- ./nginx/error.log:/etc/nginx/error_log.log
+      #- ./nginx/cache/:/etc/nginx/cache
+    depends_on:
+      - back_flask
+      - front_react
+    links:
+      - back_flask
+      - front_react
+    networks:
+      - visatm
+
+
+  back_flask:
+    hostname: backend
+    container_name: back_flask
+    build:
+      context: ./back
+      args:
+        - http_proxy=http://proxyout.inist.fr:8080/
+        - https_proxy=http://proxyout.inist.fr:8080/
+    env_file: ./back/.env.debug
+    expose:
+      - "5000"
+    volumes:
+      - ./back/uploaded/:/app/uploaded
+      - ./back/corpus/:/app/corpus
+      - ./back/galaxy:/app/galaxy
+      - ./back/outputs/:/app/outputs
+    networks:
+      - visatm
+
+
+  front_react:
+    hostname: frontend
+    container_name: front_react
+    build:
+      context: ./front
+      args:
+        - http_proxy=http://proxyout.inist.fr:8080/
+        - https_proxy=http://proxyout.inist.fr:8080/
+    env_file: proxy.env
+    working_dir: /app
+    volumes:
+        - ./front:/app
+    expose:
+      - "5000"
+    depends_on:
+      - back_flask
+    networks:
+      - visatm
+    links:
+      - back_flask
+    stdin_open: true  # to be able to use CTRL+C to stop the debug
+    command: npm run start
+
+networks:
+  visatm:
+    driver: "bridge"
+volumes:
+  uploaded:
+  jobs_output:
