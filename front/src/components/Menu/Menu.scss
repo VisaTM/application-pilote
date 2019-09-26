@@ -1,0 +1,31 @@
+@import 'styles/colors.scss';
+
+header {
+    .sticky-menu {
+        z-index: 2;
+    }
+    .navbar {
+        height: 50px;
+        margin-bottom: 0;
+        border-color: $darkBlue;
+        border-bottom: 2px solid $orange;
+        background-color: $darkBlue;
+        font-family: 'Playfair Display', 'Georgia', serif;
+        font-size: 17px;
+
+        .navbar-nav {
+            max-width: 90%;
+            text-align: center;
+
+            a {
+                color: white;
+                &:hover {
+                    text-decoration: none;
+                    color: white;
+                    background-color: $orange;
+                }
+            }
+           
+        }
+    }
+}

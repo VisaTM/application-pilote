@@ -1,0 +1,15 @@
+.galaxy-notification {
+    width: 100%;
+    .alert {
+        animation: appear 0.4s ease;
+        display: flex;
+        .alert-message {
+            flex-basis: 95%;
+        }
+        .close-button {
+            cursor: pointer;
+            flex-basis: 5%;
+        }
+    }
+}
+

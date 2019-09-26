@@ -1,0 +1,20 @@
+@import 'styles/colors.scss';
+@import 'styles/commons.scss';
+
+ #file-manager {
+     display: flex;
+     width: 100%;
+     article {
+         flex: 1;
+         padding: 5px;
+     }
+     .list-group {
+         .list-group-item-info {
+             color: black;
+             background-color:  white;
+         }
+     }
+     .files-list {
+        width: 50%;
+     }
+ }

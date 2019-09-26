@@ -1,0 +1,18 @@
+@import 'styles/colors.scss';
+
+footer {
+    bottom: 0;
+    .navbar {
+        margin-bottom: 0;
+        font-size: 20px;
+        border-top: 5px solid $orange;
+
+        a:hover .icon {
+            color: $orange;
+        }
+
+        img {
+            height: 75px;
+        }
+    }
+}

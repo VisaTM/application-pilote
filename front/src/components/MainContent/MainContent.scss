@@ -1,0 +1,30 @@
+.front-page {
+    font-size: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+
+        .frontpage-picture {
+            flex: 1;
+            padding-right: 20px;
+            img {
+                width: 100%;
+            }
+        }
+        .frontpage-text {
+            flex: 3;
+            text-align: justify;
+        }
+
+        &.frontpage-diagram img{
+            width: 75%;
+        }
+    }
+}

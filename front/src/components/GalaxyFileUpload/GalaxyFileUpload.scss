@@ -1,0 +1,8 @@
+@import 'styles/colors.scss';
+.upload-component {
+    height: 100px;
+    background-color: $lightGrey;
+    border: 1px solid $darkBlue;
+    border-radius: 5px;
+    padding: 5px;
+}

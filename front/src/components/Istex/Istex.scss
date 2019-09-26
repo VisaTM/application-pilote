@@ -1,0 +1,15 @@
+
+@import 'styles/colors.scss';
+
+.form-control {
+  width: 70%;
+  border: 1px solid $darkBlue;
+  border-radius: 5px;
+  padding: 4px;
+  display: table-row;
+  margin-bottom: 5px;
+}
+
+section {
+  margin: 5px;
+}

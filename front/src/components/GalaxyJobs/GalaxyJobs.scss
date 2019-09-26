@@ -1,0 +1,45 @@
+@import 'styles/colors.scss';
+
+.workflow-selector {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    width: 100%;
+    @media screen and (min-width: 1024px) {
+      flex-direction: row;
+    }
+
+    label {
+        font-size: 18px;
+        color: $darkBlue;
+
+        &:hover {
+            color: $darkYellow;
+        }
+
+        @media screen and (min-width: 1024px) { 
+            cursor: pointer;
+        }
+    }
+    input[type=radio] {
+        display: none;
+        
+        &:checked  ~ label .workflow-radio {
+            display: none;
+        }
+
+        &:checked   ~ label .workflow-radio-checked,
+        &:checked   ~ label {
+            display: inline-block;
+            font-weight: 700;
+        }
+
+        & ~ label .workflow-radio-checked {
+            display: none;
+        }
+    }
+
+    
+}
+

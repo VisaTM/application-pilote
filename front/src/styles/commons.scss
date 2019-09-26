@@ -1,0 +1,23 @@
+@import 'styles/colors.scss';
+
+.ReactTable.-striped {
+    .rt-tr.-odd {
+        background-color: $veryLightBlue;
+    }
+
+    button.-btn {
+        background-color: $veryLightBlue;
+        color: $lightBlack;
+
+        &:hover {
+            background-color: $darkBlue;
+            color: white;
+
+        }
+    }
+}
+
+.btn.btn-primary {
+    background-color: $darkBlue;
+}
+

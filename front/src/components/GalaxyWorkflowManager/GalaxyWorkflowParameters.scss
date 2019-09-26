@@ -1,0 +1,17 @@
+@import 'styles/inputs.scss';
+
+.workflow-parameters {
+    width: 80%;
+    .workflow-parameter {
+        display: flex;
+        margin: 10px;
+        label {
+            flex-basis: 20%;
+            margin-top: 6px;
+            text-transform: capitalize;
+        }
+        input {
+            flex-basis: 80%;
+        }
+    }
+}
