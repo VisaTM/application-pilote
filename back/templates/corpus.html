@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" name="referrer" content="unsafe-url" >
+    <title>Liste des Corpus</title>
+</head>
+<body>
+<ul>
+    {% for file in files %}
+    <li><a href="/api/corpus/{{ file }}">{{ file }}</a></li>
+    {% endfor %}
+</ul>
+</body>
+</html>

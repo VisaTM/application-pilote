@@ -1,0 +1,15 @@
+{% block header %}
+<h1>Uploaded file id : {{uploaded_id}}</h1>
+{% endblock %}
+
+{% block content %}
+<form action="/execute" method="POST">
+    <select name="workflow" id="workflow">
+    {% for workflow in workflows %}
+        <option value="{{workflow['id']}}">{{workflow['name']}}</option>
+    {% endfor %}
+    </select>
+    <input type="hidden" value="{{uploaded_id}}" name="file_id"/>
+    <input type="submit" value="Execute">
+</form>
+{% endblock %}

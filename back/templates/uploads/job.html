@@ -1,0 +1,11 @@
+{% block header %}
+<h1>Job id : {{job["id"]}}</h1>
+{% endblock %}
+
+
+{% block content %}
+    <h2>State : {{ job["state"] }}</h2>
+    {% if job["state"] == 'ok' %}
+        <span>{{output}}</span>
+    {% endif %}
+{% endblock %}

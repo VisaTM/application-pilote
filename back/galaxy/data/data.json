@@ -1,0 +1,987 @@
+{
+  "Total": 20,
+  "Clusters": [
+    {
+      "Id": "000000",
+      "Name": "laser scanner",
+      "Coordinates": "0.031,0.044",
+      "Cardinal": 28,
+      "Inertia": 1.79,
+      "Number of terms": 1298,
+      "Number of documents": 28,
+      "Number of sources": 8
+    },
+    {
+      "Id": "000001",
+      "Name": "gravity recovery",
+      "Coordinates": "0.091,-0.221",
+      "Cardinal": 35,
+      "Inertia": 2.59,
+      "Number of terms": 2473,
+      "Number of documents": 35,
+      "Number of sources": 6
+    },
+    {
+      "Id": "000002",
+      "Name": "reflection event",
+      "Coordinates": "-0.342,-0.038",
+      "Cardinal": 107,
+      "Inertia": 3.95,
+      "Number of terms": 3506,
+      "Number of documents": 107,
+      "Number of sources": 10
+    },
+    {
+      "Id": "000003",
+      "Name": "annual precipitation",
+      "Coordinates": "0.456,0.254",
+      "Cardinal": 591,
+      "Inertia": 14.40,
+      "Number of terms": 4749,
+      "Number of documents": 591,
+      "Number of sources": 39
+    },
+    {
+      "Id": "000004",
+      "Name": "shear modulus",
+      "Coordinates": "-0.345,0.184",
+      "Cardinal": 143,
+      "Inertia": 4.97,
+      "Number of terms": 4248,
+      "Number of documents": 143,
+      "Number of sources": 20
+    },
+    {
+      "Id": "000005",
+      "Name": "2d structure",
+      "Coordinates": "-0.075,0.010",
+      "Cardinal": 4,
+      "Inertia": 1.12,
+      "Number of terms": 361,
+      "Number of documents": 4,
+      "Number of sources": 2
+    },
+    {
+      "Id": "000006",
+      "Name": "constant flux infiltration",
+      "Coordinates": "0.071,0.258",
+      "Cardinal": 6,
+      "Inertia": 1.27,
+      "Number of terms": 560,
+      "Number of documents": 6,
+      "Number of sources": 2
+    },
+    {
+      "Id": "000007",
+      "Name": "world bank",
+      "Coordinates": "0.327,0.283",
+      "Cardinal": 99,
+      "Inertia": 3.37,
+      "Number of terms": 3640,
+      "Number of documents": 99,
+      "Number of sources": 20
+    },
+    {
+      "Id": "000008",
+      "Name": "model structure",
+      "Coordinates": "0.353,0.260",
+      "Cardinal": 160,
+      "Inertia": 5.14,
+      "Number of terms": 4808,
+      "Number of documents": 160,
+      "Number of sources": 21
+    },
+    {
+      "Id": "000009",
+      "Name": "large earthquake",
+      "Coordinates": "-0.485,0.029",
+      "Cardinal": 253,
+      "Inertia": 10.13,
+      "Number of terms": 3470,
+      "Number of documents": 253,
+      "Number of sources": 12
+    },
+    {
+      "Id": "000010",
+      "Name": "interplanetary magnetic field",
+      "Coordinates": "0.046,-0.542",
+      "Cardinal": 442,
+      "Inertia": 15.88,
+      "Number of terms": 4203,
+      "Number of documents": 442,
+      "Number of sources": 7
+    },
+    {
+      "Id": "000011",
+      "Name": "flow depth",
+      "Coordinates": "0.113,0.170",
+      "Cardinal": 277,
+      "Inertia": 8.31,
+      "Number of terms": 4379,
+      "Number of documents": 277,
+      "Number of sources": 28
+    },
+    {
+      "Id": "000012",
+      "Name": "upper mantle",
+      "Coordinates": "-0.532,-0.026",
+      "Cardinal": 188,
+      "Inertia": 8.73,
+      "Number of terms": 3588,
+      "Number of documents": 188,
+      "Number of sources": 10
+    },
+    {
+      "Id": "000013",
+      "Name": "natural remanent magnetization",
+      "Coordinates": "-0.275,0.008",
+      "Cardinal": 54,
+      "Inertia": 3.95,
+      "Number of terms": 3111,
+      "Number of documents": 54,
+      "Number of sources": 12
+    },
+    {
+      "Id": "000014",
+      "Name": "low thermosphere",
+      "Coordinates": "0.166,-0.640",
+      "Cardinal": 270,
+      "Inertia": 9.82,
+      "Number of terms": 3485,
+      "Number of documents": 270,
+      "Number of sources": 7
+    },
+    {
+      "Id": "000015",
+      "Name": "large crater",
+      "Coordinates": "-0.057,-0.111",
+      "Cardinal": 119,
+      "Inertia": 4.63,
+      "Number of terms": 4639,
+      "Number of documents": 119,
+      "Number of sources": 8
+    },
+    {
+      "Id": "000016",
+      "Name": "mineral assemblage",
+      "Coordinates": "-0.381,0.126",
+      "Cardinal": 519,
+      "Inertia": 13.06,
+      "Number of terms": 5016,
+      "Number of documents": 519,
+      "Number of sources": 29
+    },
+    {
+      "Id": "000017",
+      "Name": "sea surface temperature",
+      "Coordinates": "0.343,-0.192",
+      "Cardinal": 827,
+      "Inertia": 21.01,
+      "Number of terms": 3918,
+      "Number of documents": 827,
+      "Number of sources": 18
+    },
+    {
+      "Id": "000018",
+      "Name": "aerosol particle",
+      "Coordinates": "0.349,-0.235",
+      "Cardinal": 650,
+      "Inertia": 18.66,
+      "Number of terms": 4306,
+      "Number of documents": 650,
+      "Number of sources": 14
+    },
+    {
+      "Id": "000019",
+      "Name": "hydraulic conductivity",
+      "Coordinates": "0.145,0.378",
+      "Cardinal": 226,
+      "Inertia": 7.36,
+      "Number of terms": 4080,
+      "Number of documents": 226,
+      "Number of sources": 18
+    }
+  ],
+  "Links": [
+    [
+      {
+        "Link": "000003 - 000008",
+        "Strength": 0.4523
+      },
+      {
+        "Link": "000009 - 000012",
+        "Strength": 0.4339
+      },
+      {
+        "Link": "000017 - 000018",
+        "Strength": 0.4278
+      },
+      {
+        "Link": "000003 - 000017",
+        "Strength": 0.4271
+      },
+      {
+        "Link": "000002 - 000012",
+        "Strength": 0.4170
+      }
+    ],
+    [
+      {
+        "Link": "000010 - 000014",
+        "Strength": 0.4040
+      },
+      {
+        "Link": "000003 - 000018",
+        "Strength": 0.3751
+      },
+      {
+        "Link": "000011 - 000019",
+        "Strength": 0.3668
+      },
+      {
+        "Link": "000012 - 000016",
+        "Strength": 0.3666
+      }
+    ],
+    [
+      {
+        "Link": "000003 - 000007",
+        "Strength": 0.3620
+      },
+      {
+        "Link": "000003 - 000011",
+        "Strength": 0.3556
+      },
+      {
+        "Link": "000003 - 000019",
+        "Strength": 0.3535
+      },
+      {
+        "Link": "000004 - 000009",
+        "Strength": 0.3304
+      },
+      {
+        "Link": "000004 - 000016",
+        "Strength": 0.3289
+      }
+    ],
+    [
+      {
+        "Link": "000013 - 000016",
+        "Strength": 0.3214
+      },
+      {
+        "Link": "000014 - 000018",
+        "Strength": 0.3152
+      },
+      {
+        "Link": "000002 - 000009",
+        "Strength": 0.3048
+      },
+      {
+        "Link": "000008 - 000019",
+        "Strength": 0.3015
+      },
+      {
+        "Link": "000011 - 000017",
+        "Strength": 0.2946
+      },
+      {
+        "Link": "000009 - 000016",
+        "Strength": 0.2859
+      },
+      {
+        "Link": "000004 - 000019",
+        "Strength": 0.2831
+      },
+      {
+        "Link": "000014 - 000017",
+        "Strength": 0.2828
+      }
+    ],
+    [
+      {
+        "Link": "000001 - 000017",
+        "Strength": 0.2741
+      },
+      {
+        "Link": "000004 - 000012",
+        "Strength": 0.2683
+      },
+      {
+        "Link": "000015 - 000016",
+        "Strength": 0.2621
+      },
+      {
+        "Link": "000006 - 000019",
+        "Strength": 0.2594
+      },
+      {
+        "Link": "000008 - 000011",
+        "Strength": 0.2492
+      },
+      {
+        "Link": "000008 - 000017",
+        "Strength": 0.2458
+      },
+      {
+        "Link": "000004 - 000011",
+        "Strength": 0.2437
+      }
+    ],
+    [
+      {
+        "Link": "000007 - 000008",
+        "Strength": 0.2333
+      },
+      {
+        "Link": "000011 - 000015",
+        "Strength": 0.2304
+      },
+      {
+        "Link": "000015 - 000018",
+        "Strength": 0.2250
+      },
+      {
+        "Link": "000008 - 000018",
+        "Strength": 0.2228
+      },
+      {
+        "Link": "000003 - 000015",
+        "Strength": 0.2197
+      },
+      {
+        "Link": "000003 - 000016",
+        "Strength": 0.2164
+      },
+      {
+        "Link": "000011 - 000016",
+        "Strength": 0.2136
+      },
+      {
+        "Link": "000012 - 000015",
+        "Strength": 0.2085
+      },
+      {
+        "Link": "000015 - 000017",
+        "Strength": 0.1956
+      },
+      {
+        "Link": "000011 - 000018",
+        "Strength": 0.1945
+      }
+    ],
+    [
+      {
+        "Link": "000002 - 000011",
+        "Strength": 0.1924
+      },
+      {
+        "Link": "000002 - 000019",
+        "Strength": 0.1906
+      },
+      {
+        "Link": "000002 - 000004",
+        "Strength": 0.1904
+      },
+      {
+        "Link": "000016 - 000017",
+        "Strength": 0.1866
+      },
+      {
+        "Link": "000018 - 000019",
+        "Strength": 0.1850
+      },
+      {
+        "Link": "000004 - 000015",
+        "Strength": 0.1848
+      },
+      {
+        "Link": "000009 - 000011",
+        "Strength": 0.1841
+      },
+      {
+        "Link": "000017 - 000019",
+        "Strength": 0.1816
+      },
+      {
+        "Link": "000011 - 000012",
+        "Strength": 0.1814
+      },
+      {
+        "Link": "000014 - 000015",
+        "Strength": 0.1796
+      },
+      {
+        "Link": "000016 - 000019",
+        "Strength": 0.1714
+      },
+      {
+        "Link": "000001 - 000003",
+        "Strength": 0.1685
+      },
+      {
+        "Link": "000002 - 000008",
+        "Strength": 0.1657
+      },
+      {
+        "Link": "000011 - 000014",
+        "Strength": 0.1654
+      },
+      {
+        "Link": "000004 - 000013",
+        "Strength": 0.1649
+      },
+      {
+        "Link": "000012 - 000013",
+        "Strength": 0.1648
+      },
+      {
+        "Link": "000007 - 000019",
+        "Strength": 0.1642
+      },
+      {
+        "Link": "000009 - 000013",
+        "Strength": 0.1593
+      },
+      {
+        "Link": "000003 - 000014",
+        "Strength": 0.1585
+      },
+      {
+        "Link": "000010 - 000011",
+        "Strength": 0.1582
+      },
+      {
+        "Link": "000001 - 000018",
+        "Strength": 0.1557
+      },
+      {
+        "Link": "000001 - 000014",
+        "Strength": 0.1536
+      },
+      {
+        "Link": "000001 - 000008",
+        "Strength": 0.1531
+      },
+      {
+        "Link": "000012 - 000017",
+        "Strength": 0.1521
+      }
+    ],
+    [
+      {
+        "Link": "000001 - 000009",
+        "Strength": 0.1513
+      },
+      {
+        "Link": "000009 - 000015",
+        "Strength": 0.1498
+      },
+      {
+        "Link": "000016 - 000018",
+        "Strength": 0.1489
+      },
+      {
+        "Link": "000007 - 000018",
+        "Strength": 0.1489
+      },
+      {
+        "Link": "000015 - 000019",
+        "Strength": 0.1481
+      },
+      {
+        "Link": "000002 - 000014",
+        "Strength": 0.1479
+      },
+      {
+        "Link": "000003 - 000004",
+        "Strength": 0.1468
+      },
+      {
+        "Link": "000007 - 000017",
+        "Strength": 0.1468
+      },
+      {
+        "Link": "000013 - 000015",
+        "Strength": 0.1447
+      },
+      {
+        "Link": "000012 - 000019",
+        "Strength": 0.1447
+      },
+      {
+        "Link": "000002 - 000016",
+        "Strength": 0.1420
+      },
+      {
+        "Link": "000001 - 000012",
+        "Strength": 0.1392
+      },
+      {
+        "Link": "000010 - 000017",
+        "Strength": 0.1376
+      },
+      {
+        "Link": "000001 - 000011",
+        "Strength": 0.1360
+      },
+      {
+        "Link": "000000 - 000011",
+        "Strength": 0.1358
+      },
+      {
+        "Link": "000000 - 000003",
+        "Strength": 0.1352
+      },
+      {
+        "Link": "000009 - 000019",
+        "Strength": 0.1343
+      },
+      {
+        "Link": "000007 - 000011",
+        "Strength": 0.1336
+      },
+      {
+        "Link": "000002 - 000005",
+        "Strength": 0.1336
+      },
+      {
+        "Link": "000002 - 000010",
+        "Strength": 0.1320
+      },
+      {
+        "Link": "000001 - 000015",
+        "Strength": 0.1318
+      },
+      {
+        "Link": "000010 - 000018",
+        "Strength": 0.1303
+      },
+      {
+        "Link": "000002 - 000017",
+        "Strength": 0.1300
+      },
+      {
+        "Link": "000004 - 000018",
+        "Strength": 0.1295
+      },
+      {
+        "Link": "000009 - 000017",
+        "Strength": 0.1291
+      },
+      {
+        "Link": "000008 - 000009",
+        "Strength": 0.1290
+      },
+      {
+        "Link": "000002 - 000015",
+        "Strength": 0.1274
+      },
+      {
+        "Link": "000006 - 000011",
+        "Strength": 0.1269
+      },
+      {
+        "Link": "000004 - 000017",
+        "Strength": 0.1261
+      },
+      {
+        "Link": "000006 - 000008",
+        "Strength": 0.1257
+      },
+      {
+        "Link": "000003 - 000009",
+        "Strength": 0.1256
+      },
+      {
+        "Link": "000008 - 000014",
+        "Strength": 0.1249
+      },
+      {
+        "Link": "000008 - 000015",
+        "Strength": 0.1240
+      },
+      {
+        "Link": "000010 - 000015",
+        "Strength": 0.1238
+      },
+      {
+        "Link": "000012 - 000014",
+        "Strength": 0.1236
+      },
+      {
+        "Link": "000000 - 000008",
+        "Strength": 0.1212
+      },
+      {
+        "Link": "000010 - 000019",
+        "Strength": 0.1206
+      },
+      {
+        "Link": "000004 - 000006",
+        "Strength": 0.1205
+      },
+      {
+        "Link": "000003 - 000006",
+        "Strength": 0.1200
+      },
+      {
+        "Link": "000000 - 000015",
+        "Strength": 0.1185
+      },
+      {
+        "Link": "000011 - 000013",
+        "Strength": 0.1180
+      },
+      {
+        "Link": "000001 - 000002",
+        "Strength": 0.1166
+      },
+      {
+        "Link": "000003 - 000013",
+        "Strength": 0.1161
+      },
+      {
+        "Link": "000003 - 000012",
+        "Strength": 0.1156
+      },
+      {
+        "Link": "000004 - 000008",
+        "Strength": 0.1152
+      },
+      {
+        "Link": "000002 - 000003",
+        "Strength": 0.1152
+      },
+      {
+        "Link": "000012 - 000018",
+        "Strength": 0.1119
+      },
+      {
+        "Link": "000014 - 000019",
+        "Strength": 0.1099
+      },
+      {
+        "Link": "000010 - 000012",
+        "Strength": 0.1087
+      }
+    ],
+    [
+      {
+        "Link": "000009 - 000014",
+        "Strength": 0.1085
+      },
+      {
+        "Link": "000004 - 000010",
+        "Strength": 0.1077
+      },
+      {
+        "Link": "000002 - 000018",
+        "Strength": 0.1062
+      },
+      {
+        "Link": "000002 - 000013",
+        "Strength": 0.1037
+      },
+      {
+        "Link": "000008 - 000012",
+        "Strength": 0.1036
+      },
+      {
+        "Link": "000008 - 000010",
+        "Strength": 0.1031
+      },
+      {
+        "Link": "000001 - 000019",
+        "Strength": 0.1028
+      },
+      {
+        "Link": "000000 - 000002",
+        "Strength": 0.1025
+      },
+      {
+        "Link": "000009 - 000018",
+        "Strength": 0.1004
+      },
+      {
+        "Link": "000005 - 000008",
+        "Strength": 0.0992
+      },
+      {
+        "Link": "000013 - 000017",
+        "Strength": 0.0978
+      },
+      {
+        "Link": "000004 - 000014",
+        "Strength": 0.0975
+      },
+      {
+        "Link": "000003 - 000010",
+        "Strength": 0.0953
+      },
+      {
+        "Link": "000013 - 000018",
+        "Strength": 0.0941
+      },
+      {
+        "Link": "000000 - 000009",
+        "Strength": 0.0930
+      },
+      {
+        "Link": "000009 - 000010",
+        "Strength": 0.0927
+      },
+      {
+        "Link": "000001 - 000010",
+        "Strength": 0.0925
+      },
+      {
+        "Link": "000013 - 000019",
+        "Strength": 0.0922
+      },
+      {
+        "Link": "000000 - 000019",
+        "Strength": 0.0888
+      },
+      {
+        "Link": "000010 - 000013",
+        "Strength": 0.0870
+      },
+      {
+        "Link": "000000 - 000018",
+        "Strength": 0.0851
+      },
+      {
+        "Link": "000008 - 000016",
+        "Strength": 0.0811
+      },
+      {
+        "Link": "000001 - 000004",
+        "Strength": 0.0795
+      },
+      {
+        "Link": "000007 - 000015",
+        "Strength": 0.0789
+      },
+      {
+        "Link": "000007 - 000016",
+        "Strength": 0.0784
+      },
+      {
+        "Link": "000005 - 000019",
+        "Strength": 0.0779
+      },
+      {
+        "Link": "000000 - 000001",
+        "Strength": 0.0777
+      },
+      {
+        "Link": "000000 - 000007",
+        "Strength": 0.0768
+      },
+      {
+        "Link": "000014 - 000016",
+        "Strength": 0.0759
+      },
+      {
+        "Link": "000008 - 000013",
+        "Strength": 0.0757
+      },
+      {
+        "Link": "000001 - 000016",
+        "Strength": 0.0740
+      },
+      {
+        "Link": "000013 - 000014",
+        "Strength": 0.0722
+      },
+      {
+        "Link": "000002 - 000006",
+        "Strength": 0.0713
+      },
+      {
+        "Link": "000000 - 000012",
+        "Strength": 0.0663
+      }
+    ],
+    [
+      {
+        "Link": "000000 - 000017",
+        "Strength": 0.0654
+      },
+      {
+        "Link": "000010 - 000016",
+        "Strength": 0.0644
+      },
+      {
+        "Link": "000006 - 000010",
+        "Strength": 0.0642
+      },
+      {
+        "Link": "000006 - 000017",
+        "Strength": 0.0640
+      },
+      {
+        "Link": "000004 - 000007",
+        "Strength": 0.0639
+      },
+      {
+        "Link": "000001 - 000013",
+        "Strength": 0.0637
+      },
+      {
+        "Link": "000000 - 000016",
+        "Strength": 0.0633
+      },
+      {
+        "Link": "000005 - 000012",
+        "Strength": 0.0628
+      },
+      {
+        "Link": "000000 - 000014",
+        "Strength": 0.0598
+      },
+      {
+        "Link": "000001 - 000007",
+        "Strength": 0.0592
+      },
+      {
+        "Link": "000005 - 000009",
+        "Strength": 0.0592
+      },
+      {
+        "Link": "000000 - 000004",
+        "Strength": 0.0563
+      },
+      {
+        "Link": "000007 - 000009",
+        "Strength": 0.0558
+      },
+      {
+        "Link": "000007 - 000014",
+        "Strength": 0.0541
+      },
+      {
+        "Link": "000002 - 000007",
+        "Strength": 0.0531
+      },
+      {
+        "Link": "000006 - 000015",
+        "Strength": 0.0525
+      },
+      {
+        "Link": "000005 - 000011",
+        "Strength": 0.0514
+      },
+      {
+        "Link": "000000 - 000013",
+        "Strength": 0.0490
+      },
+      {
+        "Link": "000006 - 000018",
+        "Strength": 0.0489
+      },
+      {
+        "Link": "000004 - 000005",
+        "Strength": 0.0485
+      },
+      {
+        "Link": "000007 - 000013",
+        "Strength": 0.0479
+      },
+      {
+        "Link": "000006 - 000016",
+        "Strength": 0.0474
+      },
+      {
+        "Link": "000007 - 000010",
+        "Strength": 0.0469
+      },
+      {
+        "Link": "000001 - 000006",
+        "Strength": 0.0465
+      },
+      {
+        "Link": "000005 - 000010",
+        "Strength": 0.0463
+      },
+      {
+        "Link": "000007 - 000012",
+        "Strength": 0.0462
+      },
+      {
+        "Link": "000000 - 000010",
+        "Strength": 0.0462
+      },
+      {
+        "Link": "000006 - 000014",
+        "Strength": 0.0454
+      },
+      {
+        "Link": "000006 - 000007",
+        "Strength": 0.0452
+      },
+      {
+        "Link": "000006 - 000009",
+        "Strength": 0.0450
+      },
+      {
+        "Link": "000006 - 000012",
+        "Strength": 0.0440
+      },
+      {
+        "Link": "000005 - 000006",
+        "Strength": 0.0388
+      },
+      {
+        "Link": "000003 - 000005",
+        "Strength": 0.0360
+      },
+      {
+        "Link": "000005 - 000015",
+        "Strength": 0.0343
+      },
+      {
+        "Link": "000005 - 000014",
+        "Strength": 0.0342
+      },
+      {
+        "Link": "000005 - 000018",
+        "Strength": 0.0338
+      },
+      {
+        "Link": "000001 - 000005",
+        "Strength": 0.0321
+      },
+      {
+        "Link": "000005 - 000007",
+        "Strength": 0.0314
+      },
+      {
+        "Link": "000000 - 000006",
+        "Strength": 0.0298
+      },
+      {
+        "Link": "000005 - 000016",
+        "Strength": 0.0290
+      },
+      {
+        "Link": "000005 - 000017",
+        "Strength": 0.0290
+      },
+      {
+        "Link": "000000 - 000005",
+        "Strength": 0.0269
+      },
+      {
+        "Link": "000005 - 000013",
+        "Strength": 0.0230
+      },
+      {
+        "Link": "000006 - 000013",
+        "Strength": 0.0226
+      }
+    ]
+  ]
+}

@@ -1,0 +1,2593 @@
+{
+      "Id": "000005",
+      "Name": "2d structure",
+      "Coordinates": "-0.075,0.010",
+      "Cardinal": 4,
+      "Inertia": 1.12,
+      "Number of terms": 361,
+      "Terms": [
+        {
+          "Term": "2d structure",
+          "Reference": "000291",
+          "Weight": 54.327,
+          "Frequency": "2/3",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "calculation error",
+          "Reference": "010532",
+          "Weight": 42.081,
+          "Frequency": "2/5",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "synthetic observed datum",
+          "Reference": "091497",
+          "Weight": 41.315,
+          "Frequency": "1/2",
+          "List": "000730"
+        },
+        {
+          "Term": "true resistivity",
+          "Reference": "096446",
+          "Weight": 41.315,
+          "Frequency": "1/2",
+          "List": "000730"
+        },
+        {
+          "Term": "upthrown block",
+          "Reference": "098214",
+          "Weight": 41.315,
+          "Frequency": "1/2",
+          "List": "000730"
+        },
+        {
+          "Term": "current injection",
+          "Reference": "018463",
+          "Weight": 35.639,
+          "Frequency": "2/4",
+          "List": "002992,003564"
+        },
+        {
+          "Term": "contrast increase",
+          "Reference": "016607",
+          "Weight": 33.733,
+          "Frequency": "1/3",
+          "List": "000730"
+        },
+        {
+          "Term": "low‐resistivity anomaly",
+          "Reference": "051383",
+          "Weight": 33.733,
+          "Frequency": "1/3",
+          "List": "000730"
+        },
+        {
+          "Term": "resistivity field",
+          "Reference": "075449",
+          "Weight": 33.733,
+          "Frequency": "1/3",
+          "List": "000730"
+        },
+        {
+          "Term": "current electron",
+          "Reference": "018439",
+          "Weight": 33.268,
+          "Frequency": "2/8",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "resistivity datum",
+          "Reference": "075447",
+          "Weight": 29.756,
+          "Frequency": "2/10",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "bedrock interface",
+          "Reference": "008360",
+          "Weight": 29.214,
+          "Frequency": "1/4",
+          "List": "000730"
+        },
+        {
+          "Term": "least‐squares technique",
+          "Reference": "048129",
+          "Weight": 29.214,
+          "Frequency": "1/4",
+          "List": "000730"
+        },
+        {
+          "Term": "optimum model",
+          "Reference": "063983",
+          "Weight": 29.214,
+          "Frequency": "1/4",
+          "List": "000730"
+        },
+        {
+          "Term": "perturbation vector",
+          "Reference": "066805",
+          "Weight": 29.214,
+          "Frequency": "1/4",
+          "List": "000730"
+        },
+        {
+          "Term": "resistivity contrast",
+          "Reference": "075446",
+          "Weight": 29.214,
+          "Frequency": "1/4",
+          "List": "000730"
+        },
+        {
+          "Term": "potential function",
+          "Reference": "069371",
+          "Weight": 27.163,
+          "Frequency": "2/12",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "2d inversion",
+          "Reference": "000283",
+          "Weight": 26.130,
+          "Frequency": "1/5",
+          "List": "000730"
+        },
+        {
+          "Term": "fill material",
+          "Reference": "029781",
+          "Weight": 26.130,
+          "Frequency": "1/5",
+          "List": "000730"
+        },
+        {
+          "Term": "formation resistivity",
+          "Reference": "031731",
+          "Weight": 26.130,
+          "Frequency": "1/5",
+          "List": "000730"
+        },
+        {
+          "Term": "minimum data",
+          "Reference": "056044",
+          "Weight": 26.130,
+          "Frequency": "1/5",
+          "List": "000730"
+        },
+        {
+          "Term": "negative stroke",
+          "Reference": "059526",
+          "Weight": 25.180,
+          "Frequency": "1/2",
+          "List": "002992"
+        },
+        {
+          "Term": "subsequent stroke",
+          "Reference": "089708",
+          "Weight": 25.180,
+          "Frequency": "1/2",
+          "List": "002992"
+        },
+        {
+          "Term": "tower top",
+          "Reference": "095163",
+          "Weight": 25.180,
+          "Frequency": "1/2",
+          "List": "002992"
+        },
+        {
+          "Term": "electrode spacing",
+          "Reference": "025245",
+          "Weight": 23.853,
+          "Frequency": "1/6",
+          "List": "000730"
+        },
+        {
+          "Term": "entire space",
+          "Reference": "026526",
+          "Weight": 23.853,
+          "Frequency": "1/6",
+          "List": "000730"
+        },
+        {
+          "Term": "fourth iteration",
+          "Reference": "031888",
+          "Weight": 23.853,
+          "Frequency": "1/6",
+          "List": "000730"
+        },
+        {
+          "Term": "surrounding material",
+          "Reference": "091130",
+          "Weight": 23.853,
+          "Frequency": "1/6",
+          "List": "000730"
+        },
+        {
+          "Term": "parameter variation",
+          "Reference": "065502",
+          "Weight": 22.814,
+          "Frequency": "3/19",
+          "List": "000928,002992,003564"
+        },
+        {
+          "Term": "anonymous referee",
+          "Reference": "004423",
+          "Weight": 22.084,
+          "Frequency": "1/7",
+          "List": "000730"
+        },
+        {
+          "Term": "associate editor",
+          "Reference": "005644",
+          "Weight": 22.084,
+          "Frequency": "1/7",
+          "List": "000730"
+        },
+        {
+          "Term": "length unit",
+          "Reference": "048210",
+          "Weight": 22.084,
+          "Frequency": "1/7",
+          "List": "000730"
+        },
+        {
+          "Term": "rectangular block",
+          "Reference": "073886",
+          "Weight": 20.657,
+          "Frequency": "1/8",
+          "List": "000730"
+        },
+        {
+          "Term": "space variable",
+          "Reference": "085904",
+          "Weight": 20.657,
+          "Frequency": "1/8",
+          "List": "000730"
+        },
+        {
+          "Term": "array length",
+          "Reference": "005396",
+          "Weight": 20.593,
+          "Frequency": "1/3",
+          "List": "003564"
+        },
+        {
+          "Term": "satisfactory approximation",
+          "Reference": "077901",
+          "Weight": 20.593,
+          "Frequency": "1/3",
+          "List": "003564"
+        },
+        {
+          "Term": "successful estimation",
+          "Reference": "090016",
+          "Weight": 20.593,
+          "Frequency": "1/3",
+          "List": "003564"
+        },
+        {
+          "Term": "change parameter",
+          "Reference": "012035",
+          "Weight": 20.560,
+          "Frequency": "1/3",
+          "List": "002992"
+        },
+        {
+          "Term": "propagation theory",
+          "Reference": "071161",
+          "Weight": 20.560,
+          "Frequency": "1/3",
+          "List": "002992"
+        },
+        {
+          "Term": "target isotope",
+          "Reference": "091911",
+          "Weight": 19.914,
+          "Frequency": "1/2",
+          "List": "000928"
+        },
+        {
+          "Term": "narrow structure",
+          "Reference": "058786",
+          "Weight": 19.476,
+          "Frequency": "1/9",
+          "List": "000730"
+        },
+        {
+          "Term": "resistivity distribution",
+          "Reference": "075448",
+          "Weight": 19.476,
+          "Frequency": "1/9",
+          "List": "000730"
+        },
+        {
+          "Term": "crystalline basement rock",
+          "Reference": "018158",
+          "Weight": 18.476,
+          "Frequency": "1/10",
+          "List": "000730"
+        },
+        {
+          "Term": "inverted parameter",
+          "Reference": "044022",
+          "Weight": 18.476,
+          "Frequency": "1/10",
+          "List": "000730"
+        },
+        {
+          "Term": "current source",
+          "Reference": "018551",
+          "Weight": 18.404,
+          "Frequency": "2/15",
+          "List": "002992,003564"
+        },
+        {
+          "Term": "integral equation",
+          "Reference": "042893",
+          "Weight": 18.109,
+          "Frequency": "2/27",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "electrode configuration",
+          "Reference": "025244",
+          "Weight": 17.834,
+          "Frequency": "1/4",
+          "List": "003564"
+        },
+        {
+          "Term": "electromagnetic coupling",
+          "Reference": "025262",
+          "Weight": 17.805,
+          "Frequency": "1/4",
+          "List": "002992"
+        },
+        {
+          "Term": "inverted model",
+          "Reference": "044021",
+          "Weight": 17.617,
+          "Frequency": "1/11",
+          "List": "000730"
+        },
+        {
+          "Term": "successive iteration",
+          "Reference": "090033",
+          "Weight": 17.617,
+          "Frequency": "1/11",
+          "List": "000730"
+        },
+        {
+          "Term": "systematic investigation",
+          "Reference": "091626",
+          "Weight": 17.617,
+          "Frequency": "1/11",
+          "List": "000730"
+        },
+        {
+          "Term": "datum misfit",
+          "Reference": "019269",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "number increase",
+          "Reference": "061851",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "potential distribution",
+          "Reference": "069337",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "single data",
+          "Reference": "082348",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "slight drop",
+          "Reference": "083067",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "true distribution",
+          "Reference": "096423",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "true solution",
+          "Reference": "096448",
+          "Weight": 16.867,
+          "Frequency": "1/12",
+          "List": "000730"
+        },
+        {
+          "Term": "annular flux",
+          "Reference": "004319",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "group interval",
+          "Reference": "036352",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "main isotope",
+          "Reference": "052414",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "nai detector",
+          "Reference": "058671",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "neural network prediction",
+          "Reference": "059865",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "scattering term",
+          "Reference": "078201",
+          "Weight": 16.260,
+          "Frequency": "1/3",
+          "List": "000928"
+        },
+        {
+          "Term": "fine mesh",
+          "Reference": "029963",
+          "Weight": 16.205,
+          "Frequency": "1/13",
+          "List": "000730"
+        },
+        {
+          "Term": "model misfit",
+          "Reference": "056825",
+          "Weight": 16.205,
+          "Frequency": "1/13",
+          "List": "000730"
+        },
+        {
+          "Term": "smoothness constraint",
+          "Reference": "083923",
+          "Weight": 16.205,
+          "Frequency": "1/13",
+          "List": "000730"
+        },
+        {
+          "Term": "small dip angle",
+          "Reference": "083459",
+          "Weight": 15.952,
+          "Frequency": "1/5",
+          "List": "003564"
+        },
+        {
+          "Term": "negative lightning",
+          "Reference": "059461",
+          "Weight": 15.925,
+          "Frequency": "1/5",
+          "List": "002992"
+        },
+        {
+          "Term": "simulated system",
+          "Reference": "082202",
+          "Weight": 15.925,
+          "Frequency": "1/5",
+          "List": "002992"
+        },
+        {
+          "Term": "adjacent cell",
+          "Reference": "001896",
+          "Weight": 15.615,
+          "Frequency": "1/14",
+          "List": "000730"
+        },
+        {
+          "Term": "estimated model",
+          "Reference": "027459",
+          "Weight": 15.086,
+          "Frequency": "1/15",
+          "List": "000730"
+        },
+        {
+          "Term": "iteration step",
+          "Reference": "044896",
+          "Weight": 15.086,
+          "Frequency": "1/15",
+          "List": "000730"
+        },
+        {
+          "Term": "function solution",
+          "Reference": "032767",
+          "Weight": 14.562,
+          "Frequency": "1/6",
+          "List": "003564"
+        },
+        {
+          "Term": "fundamental approach",
+          "Reference": "032787",
+          "Weight": 14.562,
+          "Frequency": "1/6",
+          "List": "003564"
+        },
+        {
+          "Term": "section line",
+          "Reference": "079124",
+          "Weight": 14.562,
+          "Frequency": "1/6",
+          "List": "003564"
+        },
+        {
+          "Term": "contamination effect",
+          "Reference": "016282",
+          "Weight": 14.538,
+          "Frequency": "1/6",
+          "List": "002992"
+        },
+        {
+          "Term": "current parameter",
+          "Reference": "018494",
+          "Weight": 14.538,
+          "Frequency": "1/6",
+          "List": "002992"
+        },
+        {
+          "Term": "electromagnetic model",
+          "Reference": "025275",
+          "Weight": 14.538,
+          "Frequency": "1/6",
+          "List": "002992"
+        },
+        {
+          "Term": "field propagation",
+          "Reference": "029649",
+          "Weight": 14.538,
+          "Frequency": "1/6",
+          "List": "002992"
+        },
+        {
+          "Term": "inversion scheme",
+          "Reference": "043993",
+          "Weight": 14.186,
+          "Frequency": "2/44",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "subsurface structure",
+          "Reference": "089917",
+          "Weight": 14.186,
+          "Frequency": "2/44",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "apparent resistivity",
+          "Reference": "004800",
+          "Weight": 14.171,
+          "Frequency": "1/17",
+          "List": "000730"
+        },
+        {
+          "Term": "deterministic method",
+          "Reference": "020724",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "energy datum",
+          "Reference": "026065",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "global input",
+          "Reference": "034619",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "neutron capture",
+          "Reference": "059931",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "radiation transport",
+          "Reference": "072389",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "time‐dependent problem",
+          "Reference": "094116",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "trained network",
+          "Reference": "095373",
+          "Weight": 14.082,
+          "Frequency": "1/4",
+          "List": "000928"
+        },
+        {
+          "Term": "lagrange multiplier",
+          "Reference": "046083",
+          "Weight": 13.772,
+          "Frequency": "1/18",
+          "List": "000730"
+        },
+        {
+          "Term": "true model",
+          "Reference": "096436",
+          "Weight": 13.772,
+          "Frequency": "1/18",
+          "List": "000730"
+        },
+        {
+          "Term": "finite element",
+          "Reference": "030104",
+          "Weight": 13.523,
+          "Frequency": "2/41",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "distribution method",
+          "Reference": "022124",
+          "Weight": 13.482,
+          "Frequency": "1/7",
+          "List": "003564"
+        },
+        {
+          "Term": "channel condition",
+          "Reference": "012075",
+          "Weight": 13.459,
+          "Frequency": "1/7",
+          "List": "002992"
+        },
+        {
+          "Term": "contact zone",
+          "Reference": "016259",
+          "Weight": 13.404,
+          "Frequency": "1/19",
+          "List": "000730"
+        },
+        {
+          "Term": "high resistivity",
+          "Reference": "038158",
+          "Weight": 13.404,
+          "Frequency": "1/19",
+          "List": "000730"
+        },
+        {
+          "Term": "low resistivity",
+          "Reference": "050913",
+          "Weight": 12.750,
+          "Frequency": "1/21",
+          "List": "000730"
+        },
+        {
+          "Term": "electrode array",
+          "Reference": "025243",
+          "Weight": 12.611,
+          "Frequency": "1/8",
+          "List": "003564"
+        },
+        {
+          "Term": "gradient change",
+          "Reference": "035291",
+          "Weight": 12.611,
+          "Frequency": "1/8",
+          "List": "003564"
+        },
+        {
+          "Term": "positive root",
+          "Reference": "069102",
+          "Weight": 12.611,
+          "Frequency": "1/8",
+          "List": "003564"
+        },
+        {
+          "Term": "vertical dike",
+          "Reference": "099290",
+          "Weight": 12.611,
+          "Frequency": "1/8",
+          "List": "003564"
+        },
+        {
+          "Term": "continuous energy",
+          "Reference": "016472",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "cross‐sectional datum",
+          "Reference": "017904",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "diffusion approximation",
+          "Reference": "021155",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "inelastic scattering",
+          "Reference": "041979",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "network output",
+          "Reference": "059843",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "nuclear industry",
+          "Reference": "061781",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "outer loop",
+          "Reference": "064551",
+          "Weight": 12.595,
+          "Frequency": "1/5",
+          "List": "000928"
+        },
+        {
+          "Term": "median peak",
+          "Reference": "054446",
+          "Weight": 12.590,
+          "Frequency": "1/8",
+          "List": "002992"
+        },
+        {
+          "Term": "basic pattern",
+          "Reference": "007878",
+          "Weight": 12.457,
+          "Frequency": "1/22",
+          "List": "000730"
+        },
+        {
+          "Term": "jacobian matrix",
+          "Reference": "044971",
+          "Weight": 12.457,
+          "Frequency": "1/22",
+          "List": "000730"
+        },
+        {
+          "Term": "analytical function",
+          "Reference": "003802",
+          "Weight": 12.183,
+          "Frequency": "1/23",
+          "List": "000730"
+        },
+        {
+          "Term": "graben structure",
+          "Reference": "035254",
+          "Weight": 12.183,
+          "Frequency": "1/23",
+          "List": "000730"
+        },
+        {
+          "Term": "infinite number",
+          "Reference": "042049",
+          "Weight": 12.183,
+          "Frequency": "1/23",
+          "List": "000730"
+        },
+        {
+          "Term": "diagonal line",
+          "Reference": "020903",
+          "Weight": 11.926,
+          "Frequency": "1/24",
+          "List": "000730"
+        },
+        {
+          "Term": "high contrast",
+          "Reference": "037636",
+          "Weight": 11.926,
+          "Frequency": "1/24",
+          "List": "000730"
+        },
+        {
+          "Term": "slight reduction",
+          "Reference": "083078",
+          "Weight": 11.926,
+          "Frequency": "1/24",
+          "List": "000730"
+        },
+        {
+          "Term": "approximate equation",
+          "Reference": "004879",
+          "Weight": 11.890,
+          "Frequency": "1/9",
+          "List": "003564"
+        },
+        {
+          "Term": "integral form",
+          "Reference": "042896",
+          "Weight": 11.890,
+          "Frequency": "1/9",
+          "List": "003564"
+        },
+        {
+          "Term": "geological structure",
+          "Reference": "033820",
+          "Weight": 11.855,
+          "Frequency": "2/63",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "percentage difference",
+          "Reference": "066439",
+          "Weight": 11.686,
+          "Frequency": "1/25",
+          "List": "000730"
+        },
+        {
+          "Term": "individual scenario",
+          "Reference": "041835",
+          "Weight": 11.498,
+          "Frequency": "1/6",
+          "List": "000928"
+        },
+        {
+          "Term": "pair production",
+          "Reference": "065152",
+          "Weight": 11.498,
+          "Frequency": "1/6",
+          "List": "000928"
+        },
+        {
+          "Term": "parallel processing",
+          "Reference": "065416",
+          "Weight": 11.498,
+          "Frequency": "1/6",
+          "List": "000928"
+        },
+        {
+          "Term": "photoelectric absorption",
+          "Reference": "067138",
+          "Weight": 11.498,
+          "Frequency": "1/6",
+          "List": "000928"
+        },
+        {
+          "Term": "subsurface formation",
+          "Reference": "089874",
+          "Weight": 11.498,
+          "Frequency": "1/6",
+          "List": "000928"
+        },
+        {
+          "Term": "forward problem",
+          "Reference": "031779",
+          "Weight": 11.459,
+          "Frequency": "1/26",
+          "List": "000730"
+        },
+        {
+          "Term": "two‐layer model",
+          "Reference": "096811",
+          "Weight": 11.459,
+          "Frequency": "1/26",
+          "List": "000730"
+        },
+        {
+          "Term": "standard curve",
+          "Reference": "087262",
+          "Weight": 11.279,
+          "Frequency": "1/10",
+          "List": "003564"
+        },
+        {
+          "Term": "inversion algorithm",
+          "Reference": "043966",
+          "Weight": 11.087,
+          "Frequency": "2/61",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "large contrast",
+          "Reference": "046673",
+          "Weight": 10.850,
+          "Frequency": "1/29",
+          "List": "000730"
+        },
+        {
+          "Term": "low model",
+          "Reference": "050757",
+          "Weight": 10.850,
+          "Frequency": "1/29",
+          "List": "000730"
+        },
+        {
+          "Term": "inversion technique",
+          "Reference": "044001",
+          "Weight": 10.824,
+          "Frequency": "2/64",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "calculation procedure",
+          "Reference": "010535",
+          "Weight": 10.755,
+          "Frequency": "1/11",
+          "List": "003564"
+        },
+        {
+          "Term": "present method",
+          "Reference": "070080",
+          "Weight": 10.755,
+          "Frequency": "1/11",
+          "List": "003564"
+        },
+        {
+          "Term": "surface point",
+          "Reference": "090863",
+          "Weight": 10.755,
+          "Frequency": "1/11",
+          "List": "003564"
+        },
+        {
+          "Term": "current amplitude",
+          "Reference": "018390",
+          "Weight": 10.737,
+          "Frequency": "1/11",
+          "List": "002992"
+        },
+        {
+          "Term": "current dynamics",
+          "Reference": "018435",
+          "Weight": 10.737,
+          "Frequency": "1/11",
+          "List": "002992"
+        },
+        {
+          "Term": "statistical measure",
+          "Reference": "087653",
+          "Weight": 10.667,
+          "Frequency": "1/30",
+          "List": "000730"
+        },
+        {
+          "Term": "inversion procedure",
+          "Reference": "043985",
+          "Weight": 10.659,
+          "Frequency": "2/66",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "ultimate objective",
+          "Reference": "097123",
+          "Weight": 10.645,
+          "Frequency": "1/7",
+          "List": "000928"
+        },
+        {
+          "Term": "field survey",
+          "Reference": "029688",
+          "Weight": 10.587,
+          "Frequency": "2/79",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "inverse problem",
+          "Reference": "043942",
+          "Weight": 10.501,
+          "Frequency": "2/68",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "dominant influence",
+          "Reference": "022448",
+          "Weight": 10.494,
+          "Frequency": "1/31",
+          "List": "000730"
+        },
+        {
+          "Term": "initial step",
+          "Reference": "042456",
+          "Weight": 10.329,
+          "Frequency": "1/32",
+          "List": "000730"
+        },
+        {
+          "Term": "vertical fault",
+          "Reference": "099334",
+          "Weight": 10.329,
+          "Frequency": "1/32",
+          "List": "000730"
+        },
+        {
+          "Term": "transform method",
+          "Reference": "095469",
+          "Weight": 10.297,
+          "Frequency": "1/12",
+          "List": "003564"
+        },
+        {
+          "Term": "tall tower",
+          "Reference": "091824",
+          "Weight": 10.280,
+          "Frequency": "1/12",
+          "List": "002992"
+        },
+        {
+          "Term": "continuous function",
+          "Reference": "016482",
+          "Weight": 10.171,
+          "Frequency": "1/33",
+          "List": "000730"
+        },
+        {
+          "Term": "noisy datum",
+          "Reference": "060433",
+          "Weight": 10.171,
+          "Frequency": "1/33",
+          "List": "000730"
+        },
+        {
+          "Term": "practical application",
+          "Reference": "069605",
+          "Weight": 10.088,
+          "Frequency": "2/87",
+          "List": "000730,003564"
+        },
+        {
+          "Term": "fault structure",
+          "Reference": "029278",
+          "Weight": 10.020,
+          "Frequency": "1/34",
+          "List": "000730"
+        },
+        {
+          "Term": "initial increase",
+          "Reference": "042342",
+          "Weight": 10.020,
+          "Frequency": "1/34",
+          "List": "000730"
+        },
+        {
+          "Term": "compton scattering",
+          "Reference": "015476",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "cross‐section datum",
+          "Reference": "017897",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "equal mass",
+          "Reference": "026828",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "fundamental concept",
+          "Reference": "032793",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "great energy",
+          "Reference": "035789",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "monte‐carlo simulation",
+          "Reference": "057636",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "network simulation",
+          "Reference": "059847",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "neural network approach",
+          "Reference": "059862",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "spectral plot",
+          "Reference": "086489",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "subsequent simulation",
+          "Reference": "089702",
+          "Weight": 9.957,
+          "Frequency": "1/8",
+          "List": "000928"
+        },
+        {
+          "Term": "geometric factor",
+          "Reference": "033900",
+          "Weight": 9.893,
+          "Frequency": "1/13",
+          "List": "003564"
+        },
+        {
+          "Term": "integral transform",
+          "Reference": "042912",
+          "Weight": 9.893,
+          "Frequency": "1/13",
+          "List": "003564"
+        },
+        {
+          "Term": "surface boundary",
+          "Reference": "090578",
+          "Weight": 9.893,
+          "Frequency": "1/13",
+          "List": "003564"
+        },
+        {
+          "Term": "practical purpose",
+          "Reference": "069622",
+          "Weight": 9.876,
+          "Frequency": "1/35",
+          "List": "000730"
+        },
+        {
+          "Term": "ongoing research",
+          "Reference": "063545",
+          "Weight": 9.738,
+          "Frequency": "1/36",
+          "List": "000730"
+        },
+        {
+          "Term": "sufficient information",
+          "Reference": "090084",
+          "Weight": 9.738,
+          "Frequency": "1/36",
+          "List": "000730"
+        },
+        {
+          "Term": "inversion result",
+          "Reference": "043989",
+          "Weight": 9.562,
+          "Frequency": "2/82",
+          "List": "000730,000928"
+        },
+        {
+          "Term": "boundary surface",
+          "Reference": "009558",
+          "Weight": 9.533,
+          "Frequency": "1/14",
+          "List": "003564"
+        },
+        {
+          "Term": "data inversion",
+          "Reference": "019155",
+          "Weight": 9.533,
+          "Frequency": "1/14",
+          "List": "003564"
+        },
+        {
+          "Term": "lightning channel",
+          "Reference": "048503",
+          "Weight": 9.517,
+          "Frequency": "1/14",
+          "List": "002992"
+        },
+        {
+          "Term": "wave slope",
+          "Reference": "101299",
+          "Weight": 9.517,
+          "Frequency": "1/14",
+          "List": "002992"
+        },
+        {
+          "Term": "european community",
+          "Reference": "027628",
+          "Weight": 9.388,
+          "Frequency": "1/9",
+          "List": "000928"
+        },
+        {
+          "Term": "gaussian noise",
+          "Reference": "033353",
+          "Weight": 9.238,
+          "Frequency": "1/40",
+          "List": "000730"
+        },
+        {
+          "Term": "positive slope",
+          "Reference": "069114",
+          "Weight": 9.238,
+          "Frequency": "1/40",
+          "List": "000730"
+        },
+        {
+          "Term": "similar response",
+          "Reference": "081824",
+          "Weight": 9.238,
+          "Frequency": "1/40",
+          "List": "000730"
+        },
+        {
+          "Term": "reliable model",
+          "Reference": "074960",
+          "Weight": 9.210,
+          "Frequency": "1/15",
+          "List": "003564"
+        },
+        {
+          "Term": "critical aspect",
+          "Reference": "017665",
+          "Weight": 9.195,
+          "Frequency": "1/15",
+          "List": "002992"
+        },
+        {
+          "Term": "smooth variation",
+          "Reference": "083920",
+          "Weight": 9.195,
+          "Frequency": "1/15",
+          "List": "002992"
+        },
+        {
+          "Term": "negative slope",
+          "Reference": "059513",
+          "Weight": 9.016,
+          "Frequency": "1/42",
+          "List": "000730"
+        },
+        {
+          "Term": "legendre function",
+          "Reference": "048181",
+          "Weight": 8.917,
+          "Frequency": "1/16",
+          "List": "003564"
+        },
+        {
+          "Term": "restricted range",
+          "Reference": "075642",
+          "Weight": 8.917,
+          "Frequency": "1/16",
+          "List": "003564"
+        },
+        {
+          "Term": "upper region",
+          "Reference": "098004",
+          "Weight": 8.917,
+          "Frequency": "1/16",
+          "List": "003564"
+        },
+        {
+          "Term": "computational technique",
+          "Reference": "015508",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "harmonic function",
+          "Reference": "036792",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "physical problem",
+          "Reference": "067277",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "sandstone formation",
+          "Reference": "077677",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "search procedure",
+          "Reference": "078647",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "simulation procedure",
+          "Reference": "082253",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "source volume",
+          "Reference": "085227",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "thermal neutron",
+          "Reference": "093123",
+          "Weight": 8.906,
+          "Frequency": "1/10",
+          "List": "000928"
+        },
+        {
+          "Term": "main question",
+          "Reference": "052466",
+          "Weight": 8.903,
+          "Frequency": "1/16",
+          "List": "002992"
+        },
+        {
+          "Term": "wave profile",
+          "Reference": "101269",
+          "Weight": 8.903,
+          "Frequency": "1/16",
+          "List": "002992"
+        },
+        {
+          "Term": "close approximation",
+          "Reference": "013322",
+          "Weight": 8.651,
+          "Frequency": "1/17",
+          "List": "003564"
+        },
+        {
+          "Term": "current distribution",
+          "Reference": "018432",
+          "Weight": 8.651,
+          "Frequency": "1/17",
+          "List": "003564"
+        },
+        {
+          "Term": "dynamic nature",
+          "Reference": "023624",
+          "Weight": 8.637,
+          "Frequency": "1/17",
+          "List": "002992"
+        },
+        {
+          "Term": "external source",
+          "Reference": "028569",
+          "Weight": 8.599,
+          "Frequency": "2/55",
+          "List": "000928,002992"
+        },
+        {
+          "Term": "final number",
+          "Reference": "029883",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "formation fluid",
+          "Reference": "031717",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "interaction mechanism",
+          "Reference": "043108",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "main variable",
+          "Reference": "052537",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "neutron flux",
+          "Reference": "059938",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "nuclear reactor",
+          "Reference": "061787",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "scalar flux",
+          "Reference": "078027",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "statistical nature",
+          "Reference": "087658",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "subsurface property",
+          "Reference": "089904",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "variational method",
+          "Reference": "098835",
+          "Weight": 8.492,
+          "Frequency": "1/11",
+          "List": "000928"
+        },
+        {
+          "Term": "crystalline rock",
+          "Reference": "018168",
+          "Weight": 8.433,
+          "Frequency": "1/48",
+          "List": "000730"
+        },
+        {
+          "Term": "geometrical configuration",
+          "Reference": "033925",
+          "Weight": 8.393,
+          "Frequency": "1/18",
+          "List": "002992"
+        },
+        {
+          "Term": "fault model",
+          "Reference": "029221",
+          "Weight": 8.182,
+          "Frequency": "1/51",
+          "List": "000730"
+        },
+        {
+          "Term": "lightning stroke",
+          "Reference": "048543",
+          "Weight": 8.170,
+          "Frequency": "1/19",
+          "List": "002992"
+        },
+        {
+          "Term": "general purpose",
+          "Reference": "033545",
+          "Weight": 8.130,
+          "Frequency": "1/12",
+          "List": "000928"
+        },
+        {
+          "Term": "global optimization",
+          "Reference": "034723",
+          "Weight": 8.130,
+          "Frequency": "1/12",
+          "List": "000928"
+        },
+        {
+          "Term": "initial energy",
+          "Reference": "042294",
+          "Weight": 8.130,
+          "Frequency": "1/12",
+          "List": "000928"
+        },
+        {
+          "Term": "target material",
+          "Reference": "091915",
+          "Weight": 8.130,
+          "Frequency": "1/12",
+          "List": "000928"
+        },
+        {
+          "Term": "slight change",
+          "Reference": "083059",
+          "Weight": 7.951,
+          "Frequency": "1/54",
+          "List": "000730"
+        },
+        {
+          "Term": "large standard deviation",
+          "Reference": "047160",
+          "Weight": 7.878,
+          "Frequency": "1/55",
+          "List": "000730"
+        },
+        {
+          "Term": "partial derivative",
+          "Reference": "065609",
+          "Weight": 7.878,
+          "Frequency": "1/55",
+          "List": "000730"
+        },
+        {
+          "Term": "angular dependence",
+          "Reference": "003955",
+          "Weight": 7.811,
+          "Frequency": "1/13",
+          "List": "000928"
+        },
+        {
+          "Term": "equivalent result",
+          "Reference": "027147",
+          "Weight": 7.811,
+          "Frequency": "1/13",
+          "List": "000928"
+        },
+        {
+          "Term": "legendre polynomial",
+          "Reference": "048182",
+          "Weight": 7.811,
+          "Frequency": "1/13",
+          "List": "000928"
+        },
+        {
+          "Term": "optimization scheme",
+          "Reference": "063979",
+          "Weight": 7.811,
+          "Frequency": "1/13",
+          "List": "000928"
+        },
+        {
+          "Term": "injection point",
+          "Reference": "042537",
+          "Weight": 7.784,
+          "Frequency": "1/21",
+          "List": "003564"
+        },
+        {
+          "Term": "opposite effect",
+          "Reference": "063813",
+          "Weight": 7.672,
+          "Frequency": "1/58",
+          "List": "000730"
+        },
+        {
+          "Term": "current profiler",
+          "Reference": "018504",
+          "Weight": 7.592,
+          "Frequency": "1/22",
+          "List": "002992"
+        },
+        {
+          "Term": "single model",
+          "Reference": "082400",
+          "Weight": 7.543,
+          "Frequency": "1/60",
+          "List": "000730"
+        },
+        {
+          "Term": "obvious advantage",
+          "Reference": "062760",
+          "Weight": 7.527,
+          "Frequency": "1/14",
+          "List": "000928"
+        },
+        {
+          "Term": "simulated flux",
+          "Reference": "082118",
+          "Weight": 7.527,
+          "Frequency": "1/14",
+          "List": "000928"
+        },
+        {
+          "Term": "accurate result",
+          "Reference": "001178",
+          "Weight": 7.481,
+          "Frequency": "1/61",
+          "List": "000730"
+        },
+        {
+          "Term": "datum inversion",
+          "Reference": "019262",
+          "Weight": 7.437,
+          "Frequency": "1/23",
+          "List": "003564"
+        },
+        {
+          "Term": "simple formula",
+          "Reference": "081960",
+          "Weight": 7.437,
+          "Frequency": "1/23",
+          "List": "003564"
+        },
+        {
+          "Term": "current component",
+          "Reference": "018407",
+          "Weight": 7.425,
+          "Frequency": "1/23",
+          "List": "002992"
+        },
+        {
+          "Term": "interpolation procedure",
+          "Reference": "043631",
+          "Weight": 7.281,
+          "Frequency": "1/24",
+          "List": "003564"
+        },
+        {
+          "Term": "flux result",
+          "Reference": "031271",
+          "Weight": 7.272,
+          "Frequency": "1/15",
+          "List": "000928"
+        },
+        {
+          "Term": "specific region",
+          "Reference": "086335",
+          "Weight": 7.192,
+          "Frequency": "1/66",
+          "List": "000730"
+        },
+        {
+          "Term": "initial model",
+          "Reference": "042370",
+          "Weight": 7.138,
+          "Frequency": "1/67",
+          "List": "000730"
+        },
+        {
+          "Term": "scenario simulation",
+          "Reference": "078234",
+          "Weight": 7.041,
+          "Frequency": "1/16",
+          "List": "000928"
+        },
+        {
+          "Term": "atomic number",
+          "Reference": "006182",
+          "Weight": 6.638,
+          "Frequency": "1/18",
+          "List": "000928"
+        },
+        {
+          "Term": "forward simulation",
+          "Reference": "031788",
+          "Weight": 6.638,
+          "Frequency": "1/18",
+          "List": "000928"
+        },
+        {
+          "Term": "error bound",
+          "Reference": "027270",
+          "Weight": 6.624,
+          "Frequency": "1/29",
+          "List": "003564"
+        },
+        {
+          "Term": "satisfactory result",
+          "Reference": "077904",
+          "Weight": 6.624,
+          "Frequency": "1/29",
+          "List": "003564"
+        },
+        {
+          "Term": "horizontal line",
+          "Reference": "039240",
+          "Weight": 6.616,
+          "Frequency": "1/78",
+          "List": "000730"
+        },
+        {
+          "Term": "synthetic datum",
+          "Reference": "091468",
+          "Weight": 6.532,
+          "Frequency": "1/80",
+          "List": "000730"
+        },
+        {
+          "Term": "similar manner",
+          "Reference": "081759",
+          "Weight": 6.515,
+          "Frequency": "2/96",
+          "List": "000928,003564"
+        },
+        {
+          "Term": "general solution",
+          "Reference": "033565",
+          "Weight": 6.512,
+          "Frequency": "1/30",
+          "List": "003564"
+        },
+        {
+          "Term": "physical system",
+          "Reference": "067301",
+          "Weight": 6.502,
+          "Frequency": "1/30",
+          "List": "002992"
+        },
+        {
+          "Term": "hydrogen atom",
+          "Reference": "039953",
+          "Weight": 6.461,
+          "Frequency": "1/19",
+          "List": "000928"
+        },
+        {
+          "Term": "input file",
+          "Reference": "042641",
+          "Weight": 6.461,
+          "Frequency": "1/19",
+          "List": "000928"
+        },
+        {
+          "Term": "subsequent event",
+          "Reference": "089663",
+          "Weight": 6.461,
+          "Frequency": "1/19",
+          "List": "000928"
+        },
+        {
+          "Term": "earth structure",
+          "Reference": "023992",
+          "Weight": 6.406,
+          "Frequency": "1/31",
+          "List": "003564"
+        },
+        {
+          "Term": "fundamental problem",
+          "Reference": "032817",
+          "Weight": 6.406,
+          "Frequency": "1/31",
+          "List": "003564"
+        },
+        {
+          "Term": "potential field",
+          "Reference": "069364",
+          "Weight": 6.406,
+          "Frequency": "1/31",
+          "List": "003564"
+        },
+        {
+          "Term": "similar calculation",
+          "Reference": "081661",
+          "Weight": 6.406,
+          "Frequency": "1/31",
+          "List": "003564"
+        },
+        {
+          "Term": "stochastic simulation",
+          "Reference": "088010",
+          "Weight": 6.297,
+          "Frequency": "1/20",
+          "List": "000928"
+        },
+        {
+          "Term": "transport study",
+          "Reference": "095751",
+          "Weight": 6.297,
+          "Frequency": "1/20",
+          "List": "000928"
+        },
+        {
+          "Term": "extreme condition",
+          "Reference": "028668",
+          "Weight": 6.295,
+          "Frequency": "1/32",
+          "List": "002992"
+        },
+        {
+          "Term": "wave front",
+          "Reference": "101197",
+          "Weight": 6.295,
+          "Frequency": "1/32",
+          "List": "002992"
+        },
+        {
+          "Term": "rms error",
+          "Reference": "076372",
+          "Weight": 6.264,
+          "Frequency": "1/87",
+          "List": "000730"
+        },
+        {
+          "Term": "reasonable accuracy",
+          "Reference": "073492",
+          "Weight": 6.209,
+          "Frequency": "1/33",
+          "List": "003564"
+        },
+        {
+          "Term": "2‐d model",
+          "Reference": "000330",
+          "Weight": 6.159,
+          "Frequency": "1/90",
+          "List": "000730"
+        },
+        {
+          "Term": "encouraging result",
+          "Reference": "025938",
+          "Weight": 6.146,
+          "Frequency": "1/21",
+          "List": "000928"
+        },
+        {
+          "Term": "position vector",
+          "Reference": "068972",
+          "Weight": 6.146,
+          "Frequency": "1/21",
+          "List": "000928"
+        },
+        {
+          "Term": "inversion problem",
+          "Reference": "043984",
+          "Weight": 6.004,
+          "Frequency": "1/22",
+          "List": "000928"
+        },
+        {
+          "Term": "scattering angle",
+          "Reference": "078175",
+          "Weight": 6.004,
+          "Frequency": "1/22",
+          "List": "000928"
+        },
+        {
+          "Term": "finite difference",
+          "Reference": "030089",
+          "Weight": 5.963,
+          "Frequency": "1/96",
+          "List": "000730"
+        },
+        {
+          "Term": "spatial discretization",
+          "Reference": "086046",
+          "Weight": 5.872,
+          "Frequency": "1/23",
+          "List": "000928"
+        },
+        {
+          "Term": "model application",
+          "Reference": "056664",
+          "Weight": 5.854,
+          "Frequency": "1/37",
+          "List": "002992"
+        },
+        {
+          "Term": "significant progress",
+          "Reference": "081459",
+          "Weight": 5.786,
+          "Frequency": "1/38",
+          "List": "003564"
+        },
+        {
+          "Term": "scattering effect",
+          "Reference": "078184",
+          "Weight": 5.749,
+          "Frequency": "1/24",
+          "List": "000928"
+        },
+        {
+          "Term": "approximate solution",
+          "Reference": "004899",
+          "Weight": 5.712,
+          "Frequency": "1/39",
+          "List": "003564"
+        },
+        {
+          "Term": "good estimation",
+          "Reference": "035023",
+          "Weight": 5.640,
+          "Frequency": "1/40",
+          "List": "003564"
+        },
+        {
+          "Term": "reliable information",
+          "Reference": "074957",
+          "Weight": 5.640,
+          "Frequency": "1/40",
+          "List": "003564"
+        },
+        {
+          "Term": "constant flux",
+          "Reference": "016078",
+          "Weight": 5.633,
+          "Frequency": "1/25",
+          "List": "000928"
+        },
+        {
+          "Term": "photomultiplier tube",
+          "Reference": "067175",
+          "Weight": 5.633,
+          "Frequency": "1/25",
+          "List": "000928"
+        },
+        {
+          "Term": "reflection coefficient",
+          "Reference": "074184",
+          "Weight": 5.630,
+          "Frequency": "1/40",
+          "List": "002992"
+        },
+        {
+          "Term": "careful analysis",
+          "Reference": "011158",
+          "Weight": 5.571,
+          "Frequency": "1/41",
+          "List": "003564"
+        },
+        {
+          "Term": "current measurement",
+          "Reference": "018480",
+          "Weight": 5.561,
+          "Frequency": "1/41",
+          "List": "002992"
+        },
+        {
+          "Term": "specific application",
+          "Reference": "086233",
+          "Weight": 5.523,
+          "Frequency": "1/26",
+          "List": "000928"
+        },
+        {
+          "Term": "transport calculation",
+          "Reference": "095687",
+          "Weight": 5.523,
+          "Frequency": "1/26",
+          "List": "000928"
+        },
+        {
+          "Term": "separation distance",
+          "Reference": "079981",
+          "Weight": 5.439,
+          "Frequency": "1/43",
+          "List": "003564"
+        },
+        {
+          "Term": "electromagnetic field",
+          "Reference": "025270",
+          "Weight": 5.431,
+          "Frequency": "1/43",
+          "List": "002992"
+        },
+        {
+          "Term": "close similarity",
+          "Reference": "013346",
+          "Weight": 5.420,
+          "Frequency": "1/27",
+          "List": "000928"
+        },
+        {
+          "Term": "propagation velocity",
+          "Reference": "071164",
+          "Weight": 5.368,
+          "Frequency": "1/44",
+          "List": "002992"
+        },
+        {
+          "Term": "neutral particle",
+          "Reference": "059908",
+          "Weight": 5.322,
+          "Frequency": "1/28",
+          "List": "000928"
+        },
+        {
+          "Term": "transport problem",
+          "Reference": "095738",
+          "Weight": 5.322,
+          "Frequency": "1/28",
+          "List": "000928"
+        },
+        {
+          "Term": "incident wave",
+          "Reference": "041370",
+          "Weight": 5.308,
+          "Frequency": "1/45",
+          "List": "002992"
+        },
+        {
+          "Term": "similar method",
+          "Reference": "081767",
+          "Weight": 5.259,
+          "Frequency": "1/46",
+          "List": "003564"
+        },
+        {
+          "Term": "vertical position",
+          "Reference": "099436",
+          "Weight": 5.250,
+          "Frequency": "1/46",
+          "List": "002992"
+        },
+        {
+          "Term": "considerable variation",
+          "Reference": "015970",
+          "Weight": 5.203,
+          "Frequency": "1/47",
+          "List": "003564"
+        },
+        {
+          "Term": "geological formation",
+          "Reference": "033789",
+          "Weight": 5.058,
+          "Frequency": "1/31",
+          "List": "000928"
+        },
+        {
+          "Term": "phase space",
+          "Reference": "066998",
+          "Weight": 5.058,
+          "Frequency": "1/31",
+          "List": "000928"
+        },
+        {
+          "Term": "computer program",
+          "Reference": "015517",
+          "Weight": 4.995,
+          "Frequency": "1/51",
+          "List": "003564"
+        },
+        {
+          "Term": "inversion approach",
+          "Reference": "043968",
+          "Weight": 4.979,
+          "Frequency": "1/32",
+          "List": "000928"
+        },
+        {
+          "Term": "potential problem",
+          "Reference": "069415",
+          "Weight": 4.946,
+          "Frequency": "1/52",
+          "List": "003564"
+        },
+        {
+          "Term": "dynamic behavior",
+          "Reference": "023567",
+          "Weight": 4.891,
+          "Frequency": "1/53",
+          "List": "002992"
+        },
+        {
+          "Term": "previous paragraph",
+          "Reference": "070380",
+          "Weight": 4.854,
+          "Frequency": "1/54",
+          "List": "003564"
+        },
+        {
+          "Term": "basic equation",
+          "Reference": "007853",
+          "Weight": 4.830,
+          "Frequency": "1/34",
+          "List": "000928"
+        },
+        {
+          "Term": "cpu time",
+          "Reference": "017487",
+          "Weight": 4.830,
+          "Frequency": "1/34",
+          "List": "000928"
+        },
+        {
+          "Term": "survey datum",
+          "Reference": "091143",
+          "Weight": 4.810,
+          "Frequency": "1/55",
+          "List": "003564"
+        },
+        {
+          "Term": "earth model",
+          "Reference": "023971",
+          "Weight": 4.766,
+          "Frequency": "1/56",
+          "List": "003564"
+        },
+        {
+          "Term": "building block",
+          "Reference": "010065",
+          "Weight": 4.760,
+          "Frequency": "1/35",
+          "List": "000928"
+        },
+        {
+          "Term": "complex geometry",
+          "Reference": "015172",
+          "Weight": 4.760,
+          "Frequency": "1/35",
+          "List": "000928"
+        },
+        {
+          "Term": "field line",
+          "Reference": "029609",
+          "Weight": 4.759,
+          "Frequency": "1/56",
+          "List": "002992"
+        },
+        {
+          "Term": "optimization procedure",
+          "Reference": "063975",
+          "Weight": 4.694,
+          "Frequency": "1/36",
+          "List": "000928"
+        },
+        {
+          "Term": "parameter estimate",
+          "Reference": "065458",
+          "Weight": 4.605,
+          "Frequency": "1/60",
+          "List": "003564"
+        },
+        {
+          "Term": "parameter range",
+          "Reference": "065480",
+          "Weight": 4.605,
+          "Frequency": "1/60",
+          "List": "003564"
+        },
+        {
+          "Term": "solid angle",
+          "Reference": "084838",
+          "Weight": 4.569,
+          "Frequency": "1/38",
+          "List": "000928"
+        },
+        {
+          "Term": "unit length",
+          "Reference": "097546",
+          "Weight": 4.559,
+          "Frequency": "1/61",
+          "List": "002992"
+        },
+        {
+          "Term": "current velocity",
+          "Reference": "018575",
+          "Weight": 4.417,
+          "Frequency": "1/65",
+          "List": "002992"
+        },
+        {
+          "Term": "additional parameter",
+          "Reference": "001767",
+          "Weight": 4.391,
+          "Frequency": "1/66",
+          "List": "003564"
+        },
+        {
+          "Term": "average flux",
+          "Reference": "006583",
+          "Weight": 4.346,
+          "Frequency": "1/42",
+          "List": "000928"
+        },
+        {
+          "Term": "opposite side",
+          "Reference": "063824",
+          "Weight": 4.325,
+          "Frequency": "1/68",
+          "List": "003564"
+        },
+        {
+          "Term": "optimization problem",
+          "Reference": "063974",
+          "Weight": 4.246,
+          "Frequency": "1/44",
+          "List": "000928"
+        },
+        {
+          "Term": "optimal solution",
+          "Reference": "063950",
+          "Weight": 4.152,
+          "Frequency": "1/46",
+          "List": "000928"
+        },
+        {
+          "Term": "substantial difference",
+          "Reference": "089763",
+          "Weight": 4.140,
+          "Frequency": "1/74",
+          "List": "002992"
+        },
+        {
+          "Term": "upper surface",
+          "Reference": "098043",
+          "Weight": 4.119,
+          "Frequency": "1/75",
+          "List": "003564"
+        },
+        {
+          "Term": "physical characteristic",
+          "Reference": "067222",
+          "Weight": 4.112,
+          "Frequency": "1/75",
+          "List": "002992"
+        },
+        {
+          "Term": "transit time",
+          "Reference": "095563",
+          "Weight": 3.981,
+          "Frequency": "1/80",
+          "List": "002992"
+        },
+        {
+          "Term": "central region",
+          "Reference": "011787",
+          "Weight": 3.963,
+          "Frequency": "1/81",
+          "List": "003564"
+        },
+        {
+          "Term": "reasonable estimate",
+          "Reference": "073504",
+          "Weight": 3.802,
+          "Frequency": "1/88",
+          "List": "003564"
+        },
+        {
+          "Term": "parameter uncertainty",
+          "Reference": "065498",
+          "Weight": 3.798,
+          "Frequency": "1/55",
+          "List": "000928"
+        },
+        {
+          "Term": "model structure",
+          "Reference": "056921",
+          "Weight": 3.739,
+          "Frequency": "1/91",
+          "List": "003564"
+        },
+        {
+          "Term": "fundamental difference",
+          "Reference": "032795",
+          "Weight": 3.730,
+          "Frequency": "1/57",
+          "List": "000928"
+        },
+        {
+          "Term": "major problem",
+          "Reference": "052729",
+          "Weight": 3.730,
+          "Frequency": "1/57",
+          "List": "000928"
+        },
+        {
+          "Term": "additional datum",
+          "Reference": "001699",
+          "Weight": 3.713,
+          "Frequency": "1/92",
+          "List": "002992"
+        },
+        {
+          "Term": "small contribution",
+          "Reference": "083422",
+          "Weight": 3.713,
+          "Frequency": "1/92",
+          "List": "002992"
+        },
+        {
+          "Term": "unit time",
+          "Reference": "097572",
+          "Weight": 3.698,
+          "Frequency": "1/58",
+          "List": "000928"
+        },
+        {
+          "Term": "electric field",
+          "Reference": "025169",
+          "Weight": 3.634,
+          "Frequency": "1/96",
+          "List": "002992"
+        },
+        {
+          "Term": "linear model",
+          "Reference": "048863",
+          "Weight": 3.549,
+          "Frequency": "1/101",
+          "List": "003564"
+        },
+        {
+          "Term": "particle density",
+          "Reference": "065668",
+          "Weight": 3.548,
+          "Frequency": "1/63",
+          "List": "000928"
+        },
+        {
+          "Term": "uncertainty analysis",
+          "Reference": "097205",
+          "Weight": 3.467,
+          "Frequency": "1/66",
+          "List": "000928"
+        },
+        {
+          "Term": "south africa",
+          "Reference": "085255",
+          "Weight": 3.411,
+          "Frequency": "1/109",
+          "List": "002992"
+        },
+        {
+          "Term": "maximum number",
+          "Reference": "053978",
+          "Weight": 3.390,
+          "Frequency": "1/69",
+          "List": "000928"
+        },
+        {
+          "Term": "spatial domain",
+          "Reference": "086049",
+          "Weight": 3.366,
+          "Frequency": "1/70",
+          "List": "000928"
+        },
+        {
+          "Term": "main component",
+          "Reference": "052335",
+          "Weight": 3.342,
+          "Frequency": "1/71",
+          "List": "000928"
+        },
+        {
+          "Term": "substantial increase",
+          "Reference": "089775",
+          "Weight": 3.342,
+          "Frequency": "1/71",
+          "List": "000928"
+        },
+        {
+          "Term": "extreme case",
+          "Reference": "028665",
+          "Weight": 3.298,
+          "Frequency": "1/117",
+          "List": "003564"
+        },
+        {
+          "Term": "energy loss",
+          "Reference": "026101",
+          "Weight": 3.231,
+          "Frequency": "1/76",
+          "List": "000928"
+        },
+        {
+          "Term": "wave amplitude",
+          "Reference": "101127",
+          "Weight": 3.148,
+          "Frequency": "1/128",
+          "List": "002992"
+        },
+        {
+          "Term": "final result",
+          "Reference": "029895",
+          "Weight": 3.091,
+          "Frequency": "1/83",
+          "List": "000928"
+        },
+        {
+          "Term": "horizontal axis",
+          "Reference": "039140",
+          "Weight": 3.055,
+          "Frequency": "1/85",
+          "List": "000928"
+        },
+        {
+          "Term": "transport equation",
+          "Reference": "095705",
+          "Weight": 3.055,
+          "Frequency": "1/85",
+          "List": "000928"
+        },
+        {
+          "Term": "similar effect",
+          "Reference": "081708",
+          "Weight": 2.985,
+          "Frequency": "1/89",
+          "List": "000928"
+        },
+        {
+          "Term": "density distribution",
+          "Reference": "020251",
+          "Weight": 2.969,
+          "Frequency": "1/90",
+          "List": "000928"
+        },
+        {
+          "Term": "inversion method",
+          "Reference": "043979",
+          "Weight": 2.969,
+          "Frequency": "1/90",
+          "List": "000928"
+        },
+        {
+          "Term": "dominant process",
+          "Reference": "022477",
+          "Weight": 2.860,
+          "Frequency": "1/97",
+          "List": "000928"
+        },
+        {
+          "Term": "energy range",
+          "Reference": "026115",
+          "Weight": 2.831,
+          "Frequency": "1/99",
+          "List": "000928"
+        },
+        {
+          "Term": "unit volume",
+          "Reference": "097577",
+          "Weight": 2.831,
+          "Frequency": "1/99",
+          "List": "000928"
+        },
+        {
+          "Term": "reaction rate",
+          "Reference": "073284",
+          "Weight": 2.816,
+          "Frequency": "1/100",
+          "List": "000928"
+        },
+        {
+          "Term": "abrupt change",
+          "Reference": "000801",
+          "Weight": 2.785,
+          "Frequency": "1/164",
+          "List": "003564"
+        },
+        {
+          "Term": "material property",
+          "Reference": "053648",
+          "Weight": 2.649,
+          "Frequency": "1/113",
+          "List": "000928"
+        },
+        {
+          "Term": "sensitivity analysis",
+          "Reference": "079876",
+          "Weight": 2.632,
+          "Frequency": "1/183",
+          "List": "002992"
+        },
+        {
+          "Term": "direct effect",
+          "Reference": "021509",
+          "Weight": 2.615,
+          "Frequency": "1/116",
+          "List": "000928"
+        },
+        {
+          "Term": "vertical axis",
+          "Reference": "099241",
+          "Weight": 2.615,
+          "Frequency": "1/116",
+          "List": "000928"
+        },
+        {
+          "Term": "vertical line",
+          "Reference": "099394",
+          "Weight": 2.415,
+          "Frequency": "1/136",
+          "List": "000928"
+        },
+        {
+          "Term": "probability distribution",
+          "Reference": "070786",
+          "Weight": 2.389,
+          "Frequency": "1/139",
+          "List": "000928"
+        },
+        {
+          "Term": "high energy",
+          "Reference": "037738",
+          "Weight": 2.179,
+          "Frequency": "1/167",
+          "List": "000928"
+        },
+        {
+          "Term": "late stage",
+          "Reference": "047621",
+          "Weight": 2.160,
+          "Frequency": "1/170",
+          "List": "000928"
+        }
+      ],
+      "Number of documents": 4,
+      "Documents": [
+        {
+          "Filename": "GS2_0190907",
+          "Title": "Assessment of the reliability of 2D inversion of apparent resistivity data",
+          "Publication date": "2000",
+          "Istex Id": "1C44315FF5EC45E31E5B7A43B8647B7F9BF5060F",
+          "ARK": "ark:/67375/WNG-3CJCBT0N-1",
+          "DOI": "10.1046/j.1365-2478.2000.00173.x",
+          "Reference": "000730",
+          "Weight": 0.769
+        },
+        {
+          "Filename": "GS2_0646523",
+          "Title": "Limiting apparent‐resistivity values for dipping‐bed earth models",
+          "Publication date": "2001",
+          "Istex Id": "131E27E3D579717461F0B9F89AC21FF5D7B528ED",
+          "ARK": "ark:/67375/WNG-J00JLKTJ-H",
+          "DOI": "10.1046/j.1365-2478.2001.00281.x",
+          "Reference": "003564",
+          "Weight": 0.471
+        },
+        {
+          "Filename": "GS2_0224198",
+          "Title": "Energy Group optimization for forward and inverse problems in nuclear engineering: application to downwell‐logging problems",
+          "Publication date": "2006",
+          "Istex Id": "BD7B71A7838B5E96AF9CF001E0ADFDDEDB223A85",
+          "ARK": "ark:/67375/WNG-D6SLSDTX-K",
+          "DOI": "10.1111/j.1365-2478.2006.00521.x",
+          "Reference": "000928",
+          "Weight": 0.444
+        },
+        {
+          "Filename": "GS2_0560508",
+          "Title": "Lightning current waves measured at short instrumented towers: The influence of sensor position",
+          "Publication date": "2005",
+          "Istex Id": "4C82789F4F06CF9EBCC98C02FD0570E5046ABF87",
+          "ARK": "ark:/67375/WNG-NW3LNZPN-6",
+          "DOI": "10.1029/2005GL023255",
+          "Reference": "002992",
+          "Weight": 0.329
+        }
+      ],
+      "Number of sources": 2,
+      "Sources": [
+        {
+          "Title": "Geophysical Prospecting",
+          "Frequency": "3/66",
+          "List": "000730,000928,003564"
+        },
+        {
+          "Title": "Geophysical Research Letters",
+          "Frequency": "1/1167",
+          "List": "002992"
+        }
+      ]
+    }
