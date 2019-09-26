@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+##############################
+# FRONT REACT
+##############################
+# dependencies
+/front/node_modules
+/front/.pnp
+/front/.pnp.js
+
+# testing
+/front/coverage
+
+# production
+/front/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+##############################
+# BACK PYTHON
+##############################
+/back/galaxy/uploaded/*
+/back/galaxy/outputs/*
+/back/galaxy/__pycache__/*
+
+
+##############################
+# Misc
+##############################
+.vscode/
+.idea/
